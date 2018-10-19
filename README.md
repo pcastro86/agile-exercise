@@ -1,8 +1,8 @@
 # agile-exercise
 
 # Install:
-npm install
-npm start
+npm install <br>
+npm start<br>
 Open in browser: http://localhost:3000
 
 # Requirements:
